@@ -1,0 +1,102 @@
+[
+    {
+        "name": "nabe",
+        "logo": "../assets/logos/nabe.png",
+        "link": "https://www.nabe.gv.at/"
+    },
+    {
+        "name": "TierQuarTier Wien",
+        "logo": "../assets/logos/tqt_wien.png",
+        "link": "https://www.tierquartier.at"
+    },
+    {
+        "name": "erinnern.at",
+        "logo": "../assets/logos/erinnern.png",
+        "link": "https://www.erinnern.at/"
+    },
+    {
+        "name": "Österreichischer Rundfunk (ORF)",
+        "logo": "../assets/logos/orf.png",
+        "link": "https://www.orf.at"
+    },
+    {
+        "name": "Wega Filmproduktionsges.m.b.H",
+        "logo": "../assets/logos/wegafilm.png",
+        "link": "https://www.wega-film.at"
+    },
+    {
+        "name": "Die 48er",
+        "logo": "../assets/logos/ma48.png",
+        "link": "https://www.wien.gv.at/umwelt/ma48"
+    },
+    {
+        "name": "filmABC",
+        "logo": "../assets/logos/filmabc.png",
+        "link": "http://www.filmabc.at/"
+    },
+    {
+        "name": "debra",
+        "logo": "../assets/logos/debra.png",
+        "link": "https://www.debra-austria.org/"
+    },
+        {
+        "name": "dotdotdot Open Air Kurzfilmfestival",
+        "logo": "../assets/logos/dot.png",
+        "link": "https://www.dotdotdot.at"
+    },
+    {
+        "name": "Dschungel Wien",
+        "logo": "../assets/logos/dschungel.png",
+        "link": "https://www.dschungelwien.at/"
+    },
+    {
+        "name": "Wien Museum",
+        "logo": "../assets/logos/wien_museum.png",
+        "link": "https://www.wienmuseum.at/"
+    },
+    {
+        "name": "Salm Bräu",
+        "logo": "../assets/logos/salm.png",
+        "link": "https://www.salmbraeu.com"
+    },
+    {
+        "name": "Weltmuseum Wien",
+        "logo": "../assets/logos/welt_museum.png",
+        "link": "https://www.weltmuseumwien.at"
+    },
+    {
+        "name": "Vorarlberg Museum",
+        "logo": "../assets/logos/vorarlberg-museum.png",
+        "link": "https://www.vorarlbergmuseum.at/"
+    },
+    {
+        "name": "prorare Austria",
+        "logo": "../assets/logos/pro_rare_austria.png",
+        "link": "https://www.prorare-austria.org/"
+    },
+    {
+        "name": "KunstSozialRaum Brunnenpassage",
+        "logo": "../assets/logos/bp.png",
+        "link": "https://www.brunnenpassage.at"
+    },
+    {
+        "name": "Sozialbau",
+        "logo": "../assets/logos/sozialbau.png",
+        "link": "https://www.sozialbau.at"
+    },
+    {
+        "name": "Pupille",
+        "logo": "../assets/logos/pupille.png",
+        "link": "https://www.puppille.at/"
+    },
+    {
+        "name": "Andrea Latritsch-Karlbauer",
+        "logo": "../assets/logos/anlaka.png",
+        "link": "https://www.anlaka.com/"
+    },
+       {
+        "name": "Kultur in Bewegung",
+        "logo": "../assets/logos/kultur_bewegung.png",
+        "link": "https://www.kultureninbewegung.org/"
+    }
+]
