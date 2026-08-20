@@ -11,7 +11,5 @@
 
 # Team <br>
 Fesih Alpagu
-<br>
-<br>
-_This project was created for training purposes and is not intended for productive use.._
+
 
